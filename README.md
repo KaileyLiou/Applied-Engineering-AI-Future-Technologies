@@ -2,6 +2,10 @@
 
 This is a repository that contains Python notebooks from the MIT Beaver Works Summer Institute Girls Who Can Learn Applied Engineering, Artificial Intelligence & Future Technologies! Fall 2025 course.
 
+Projects viewable on portfolio website: https://kaileyliou.github.io/MyPersonalWebsite/
+
+Course Outline: https://sufianta.github.io/applied-engineering-ai/
+
 ## Technologies Used:
 
 Web Development (HTML, CSS, JavaScript), Python (Flask, Pandas, NumPy), and Arduino
