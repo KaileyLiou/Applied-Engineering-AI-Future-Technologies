@@ -1,6 +1,6 @@
 # Applied Engineering, AI & Future Technologies
 
-This is a repository that contains Python notebooks from the MIT Beaver Works Summer Institute Girls Who Can Learn Applied Engineering, Artificial Intelligence & Future Technologies! Fall 2025 course.
+This is a repository that contains Python notebooks, Arduino circuits, and Thunkable apps from the MIT Beaver Works Summer Institute Girls Who Can Learn Applied Engineering, Artificial Intelligence & Future Technologies! Fall 2025 course.
 
 Projects viewable on portfolio website: https://kaileyliou.github.io/MyPersonalWebsite/
 
@@ -14,3 +14,5 @@ Web Development (HTML, CSS, JavaScript), Python (Flask, Pandas, NumPy), and Ardu
 
 - Used Jupyter notebooks, Python constructs, and Matplotlib on Deepnote to create interactive projects that compute descriptive statistics and visualize data to present results.
 - Learned about embedded systems, technology, data analytics, cloud computing, cybersecurity, AI, and interactive data visualization.
+- Used block-based coding to create apps in groups on Thunkable.
+- Made simple Arduino circuits in Tinkercad while learning about LEDs, resistors, and wires.
