@@ -2,7 +2,7 @@
 
 This is a repository that contains Python notebooks, Arduino circuits, and Thunkable apps from the MIT Beaver Works Summer Institute Girls Who Can Learn Applied Engineering, Artificial Intelligence & Future Technologies! Fall 2025 course.
 
-Projects viewable on portfolio website: https://kaileyliou.github.io/MyPersonalWebsite/
+Projects viewable on portfolio website: https://kaileyliou.github.io/BWSI-Portfolio-Website/
 
 Course Outline: https://sufianta.github.io/applied-engineering-ai/
 
